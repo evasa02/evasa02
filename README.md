@@ -15,8 +15,8 @@ I am a passionate **B.Tech student in Artificial Intelligence and Data Science**
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="50" height="50"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React" width="50" height="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/aws/aws-original.svg" alt="AWS" width="50" height="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tableau/tableau-original.svg" alt="Tableau" width="50" height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" alt="AWS" width="50" height="50"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Tableau_Logo.png" alt="Tableau" width="50" height="50"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/salesforce/salesforce-original.svg" alt="Salesforce" width="50" height="50"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="Docker" width="50" height="50"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" alt="C++" width="50" height="50"/>
@@ -32,8 +32,17 @@ I am a passionate **B.Tech student in Artificial Intelligence and Data Science**
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="50" height="50"/>
   </a>
   <a href="https://github.com/evasa02">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" width="50" height="50"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" width="50" height="50" style="filter: invert(1);"/>
   </a>
+</div>
+
+---
+
+### 📈 **GitHub Stats**
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=evasa02&show_icons=true&theme=radical" alt="Saloni's GitHub Stats" width="400"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=evasa02&theme=radical" alt="GitHub Streak" width="400"/>
 </div>
 
 ---
@@ -43,7 +52,7 @@ I am a passionate **B.Tech student in Artificial Intelligence and Data Science**
 - **[CodeCollab](#)**  
   A real-time collaborative coding platform supporting code editing, commenting, and tracking. Scaled for 100+ concurrent users using **AWS EC2 & S3**.  
   _Tech Stack:_ React, Python, AWS.  
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="20"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="20"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/aws/aws-original.svg" width="20"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="20"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="20"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" width="20"/>
 
 - **[DeepSense](#)**  
   Designed a **road quality assessment metric** with YOLOv8, achieving 94% accuracy in detecting potholes and other road anomalies.  
@@ -64,8 +73,4 @@ I am a passionate **B.Tech student in Artificial Intelligence and Data Science**
 - ⭐ **Finalist:** Smart India Hackathon 2024.  
 - 🥇 **1st Place:** IIM Raipur Karmanta Data Analytics Competition.  
 
----
 
-### 📫 **Contact Me**
-- 📧 Email: saloni.nimgaonkar21@vit.edu  
-- 📞 Phone: +91-9921599977  
